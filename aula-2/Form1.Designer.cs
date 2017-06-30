@@ -18,6 +18,7 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
+            //teste
         }
 
         #region Windows Form Designer generated code
